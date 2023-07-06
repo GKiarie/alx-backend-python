@@ -2,4 +2,6 @@
 """floors input float"""
 
 
-def 
+def floor(n: float) -> int:
+    """returns floor of input float"""
+    return int(n)
